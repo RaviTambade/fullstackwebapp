@@ -1,4 +1,7 @@
 
+These are changes now I am adding to beta 1 branch at time 12:57
+____________________________________________________________________
+*********************************************************************
 Business Requiremnt Specification
 Author:Rajan Patil ( Business Analyst)
 Title:ECommerce Business Requirements of Vijay Sales.
