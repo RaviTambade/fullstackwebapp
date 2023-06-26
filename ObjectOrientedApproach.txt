@@ -1,0 +1,134 @@
+
+Q.1. Is your project topic is properly understood by you and your team?
+
+Q.2. Have you defined functional and Non requirements of your project?
+
+Q.3. Have you Identified Modules in your Project ?
+
+Q.4. Have you Identified Actors for  your Project ?
+
+  outcome: SRS Document
+
+Apply Object Oriented Approach for Software Requirement:
+	
+  Major Pillars of  OO
+	Abstraction,
+	Encapsulation,
+	Inheritance & Polymorphism
+	
+  Minor Pillars of OO
+	Typing
+	Persistence
+	Concurrency
+	Modularity
+	Hiearchy
+	
+	OOA----Object Oriented Analysis:
+		1.Identify actors, users:
+
+			---endusers- windows shopping
+			---customers---registered users----
+			--shoppers---- 
+			--vendors--- other companies who would help in delivery parcels to customers
+			---sales team----order processing details----Operations
+			---BOD---- Bussiness Dashboard-- Business Intelligence
+			---Store manager (staff)-----Stock verfictation
+		
+		2.Identify Modules:
+			Reusable modules
+				Productcatalog modules
+				Shoppingcart Module
+				Orderprocessing
+				MIS ( BI--- reports, dashboard, logging)
+				Payment processing
+				Shiping
+				Membership
+ 				
+				
+		3.Identify Relationship with other modules of the project
+		  	Orderprocessing Usecase depends on Membership usercase
+			Orderprocessing usecase depends on Shoppingcart usercase
+			ShoppingCart  usecase dependes on Product catalog
+			BI (MIS) usecase depends on Oderprocerssing usecase 
+			BI (MIS) usecase depends on Membership usecase 
+
+		
+		Using Unified Modeling Language  (UML)Notation
+		 UML Diagram:
+			Birds Eye view of your project from functionality point view
+			Use case Diagram
+
+	OOD----Object Oriented Design:
+		Identitfy Objects,
+		Idenfitfy classes, packages
+		Identify Resubility using Inheritance and containment
+		
+
+	OOP----Objectd Oritend Programming-----
+		----C++, Java, Typescript, ES JS
+		 Write packages
+		 Write Classes
+		 Write Interface
+		 Use existing packages, classes, interface
+		 Build Solution
+
+
+
+Q.5. Have you created Use Case Diagram to represent Visualized form of your project ?
+
+	O
+
+
+Activities:
+	List down activities to be performed for your project
+	
+	1. Task----id, title, who will perform the task, duration task--- outcome of task--- program
+											     diagram
+											     package
+											     table
+											     =D/B
+											   simple 												CRUD 
+											     REST API
+	2. Task ---
+			id, title, who will perform the task, duration task--- outcome of task--- program
+											     diagram
+											     package
+											     table
+											     =D/B
+											   simple 												CRUD 
+											     REST API
+	3. Task---id, title, who will perform the task, duration task--- outcome of task--- program
+											     diagram
+											     package
+											     table
+											     =D/B
+											   simple 												CRUD 
+											     REST API
+	4. Task---id, title, who will perform the task, duration task--- outcome of task--- program
+											     diagram
+											     package
+											     table
+											     =D/B
+											   simple 												CRUD 
+											     REST API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

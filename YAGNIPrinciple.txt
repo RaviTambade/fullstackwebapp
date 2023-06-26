@@ -1,0 +1,17 @@
+YAGNI - You aren't gonna need it
+
+You are not going to need it, or YAGNI is a principle of extreme programming.  XP. XP is generally used in the Agile software development process.
+
+YAGNI says- do not add any functionality until it's deemed necessary; in other words,  write the code which you need in the current situation. Don't add anything if you think will need it. Add your code logic for the present, don't think of what may be needed in the future. 
+
+Point of Interest
+
+While writing any code or module keep software design principles in mind and use them wisely, make them your habit so you don't need to keep remembering every time, it will save development time and make your software module robust which could be easy to maintain and extend.
+
+
+
+The abbreviation YAGNI stands for "You aren’t gonna need it" and basically means that you shouldn’t do anything that is not needed right now, because chances are you end up investing money in a feature that no one actually needs. Not only will you loose time spent on its development, but you will also increase the total cost of owning of you code base, because the more features a software contains, the more effort it takes to maintain it.
+
+If I was asked what is the single most important thing that differs a good developer from a great one, I would answer that it is embracing and following the Yagni principle. I strongly believe that it is vital for a developer to fully understand this principle and, more importantly, possess the skill of following it.
+
+Nothing can save you more time than not writing code. Nothing can boost your productivity as much as following the Yagni principle.
